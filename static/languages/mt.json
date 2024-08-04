@@ -1,12 +1,12 @@
 {
   "heading": "Vjaġġi tat-turiżmu bil-ferrovija fl-UE",
   "subheading": "Sehem tal-vjaġġi turistiċi li saru bil-ferrovija fl-UE fl-2022. Bħala medja, 0.12 % tal-vjaġġi turistiċi kollha fis-27 Stat Membru tal-UE saru bil-ferrovija.",
-  "legend1": "L-ebda dejta disponibbli",
+  "legend1": "Ebda data disponibbli",
   "tooltip1": "% tal-vjaġġi",
   "textSourceDescription": "Sors",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Din il-ġabra tkopri t-turiżmu nazzjonali, fi kliem ieħor it-turiżmu minn residenti ta’ pajjiż lejn destinazzjonijiet fil-pajjiż ta’ residenza (turiżmu domestiku) jew barra (turiżmu barra). Ebda data disponibbli għal Ċipru u d-Danimarka.",
+  "textNote": "Din il-ġabra tkopri t-turiżmu nazzjonali, fi kliem ieħor it-turiżmu minn residenti ta’ pajjiż lejn destinazzjonijiet fil-pajjiż ta’ residenza (turiżmu domestiku) jew barra (turiżmu barra). L-ebda dejta disponibbli għal Ċipru u d-Danimarka.",
   "textDataAccess": "Aċċessa għad-data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Ikklikkja għal aktar informazzjoni"

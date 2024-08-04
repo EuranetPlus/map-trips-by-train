@@ -6,7 +6,7 @@
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "See kogumik hõlmab rahvuslikku turismi, teisisõnu riigi elanike turismi sihtkohtadesse, mis asuvad elukohariigis (siseturism) või välismaal (väljaminev turism). Küprose ja Taani kohta andmed puuduvad.",
+  "textNote": "See kogumik hõlmab rahvuslikku turismi, teisisõnu riigi elanike turismi elukohariigi sihtkohtadesse (siseturism) või välismaale (väljaminev turism). Küprose ja Taani kohta andmed puuduvad.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

@@ -7,7 +7,7 @@
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "Ta zbirka zajema nacionalni turizem, z drugimi besedami turizem rezidentov države na destinacije v državi stalnega prebivališča (domači turizem) ali v tujino (outbound turizem). Za Ciper in Dansko ni podatkov.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Kliknite za več informacij"
 }
