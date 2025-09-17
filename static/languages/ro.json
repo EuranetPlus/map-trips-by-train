@@ -1,13 +1,13 @@
 {
   "heading": "Călătorii turistice cu trenul în UE",
-  "subheading": "Ponderea călătoriilor turistice efectuate cu trenul în UE în 2022. În medie, 0,12% din toate călătoriile turistice din cele 27 de state membre ale UE au fost efectuate cu trenul.",
-  "legend1": "Nici o informatie disponibila",
+  "subheading": "Ponderea călătoriilor turistice efectuate cu trenul în UE în 2022. În medie, 0,12% din totalul călătoriilor turistice din cele 27 de state membre ale UE au fost efectuate cu trenul.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "% din călătorii",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Această colecție acoperă turismul național, cu alte cuvinte turismul efectuat de rezidenți ai unei țări către destinații din țara de reședință (turism intern) sau în străinătate (turism outbound). Nu există date disponibile pentru Cipru și Danemarca.",
+  "textNoteDescription": "Nota",
+  "textNote": "Această colecție acoperă turismul național, cu alte cuvinte, turismul rezidenților unei țări către destinații din țara de reședință (turism intern) sau în străinătate (turism de emigrare). Nu sunt disponibile date pentru Cipru și Danemarca.",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

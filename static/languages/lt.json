@@ -1,13 +1,13 @@
 {
   "heading": "Turistinės kelionės traukiniu ES",
-  "subheading": "Turistinių kelionių traukiniais dalis ES 2022 m. Vidutiniškai 0,12 % visų turistinių kelionių 27 ES valstybėse narėse buvo vykdomos traukiniais.",
+  "subheading": "Turistinių kelionių traukiniais dalis ES 2022 m. Vidutiniškai 0,12 % visų turistinių kelionių 27 ES valstybėse narėse buvo atliktos traukiniais.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "% kelionių",
+  "tooltip1": "Kelionių %",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Ši kolekcija apima nacionalinį turizmą, kitaip tariant, šalies gyventojų turizmą į gyvenamosios šalies (vidaus turizmas) arba užsienio (išvykstamasis) turizmą. Nėra duomenų apie Kiprą ir Daniją.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Šis duomenų rinkinys apima nacionalinį turizmą, kitaip tariant, šalies gyventojų turizmą į gyvenamosios šalies vietas (vidaus turizmas) arba į užsienį (išvykstamasis turizmas). Kipro ir Danijos duomenų nėra.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

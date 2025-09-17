@@ -1,13 +1,13 @@
 {
-  "heading": "Viajes turísticos en tren por la UE",
-  "subheading": "Porcentaje de viajes turísticos realizados en tren en la UE en 2022. De media, el 0,12% de todos los viajes turísticos en los 27 Estados miembros de la UE se realizaron en tren.",
-  "legend1": "Datos no disponibles",
+  "heading": "Viajes turísticos en tren en la UE",
+  "subheading": "Porcentaje de viajes turísticos realizados en tren en la UE en 2022. De media, el 0,12 % de todos los viajes turísticos en los 27 Estados miembros de la UE se realizaron en tren.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "% de viajes",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Esta colección cubre el turismo nacional, es decir, el turismo de residentes de un país hacia destinos en el país de residencia (turismo interior) o en el extranjero (turismo emisor). No hay datos disponibles para Chipre y Dinamarca.",
-  "textDataAccess": "Accede a los datos",
+  "textNote": "Esta colección abarca el turismo nacional, es decir, el turismo de los residentes de un país a destinos dentro del país de residencia (turismo interno) o en el extranjero (turismo emisor). No hay datos disponibles para Chipre ni Dinamarca.",
+  "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Haga clic para más información"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Toeristische reizen per trein in de EU",
-  "subheading": "Aandeel toeristische reizen per trein in de EU in 2022. Gemiddeld werd 0,12% van alle toeristische reizen in de 27 EU-lidstaten per trein gemaakt.",
+  "subheading": "Aandeel van toeristische reizen per trein in de EU in 2022. Gemiddeld werd 0,12% van alle toeristische reizen in de 27 EU-lidstaten per trein gemaakt.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "% van de reizen",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Deze collectie omvat het binnenlands toerisme, dat wil zeggen toerisme van inwoners van een land naar bestemmingen in het woonland (binnenlands toerisme) of naar het buitenland (uitgaand toerisme). Voor Cyprus en Denemarken zijn geen gegevens beschikbaar.",
+  "textNote": "Deze collectie omvat nationaal toerisme, dat wil zeggen toerisme door inwoners van een land naar bestemmingen in het land van verblijf (binnenlands toerisme) of naar het buitenland (uitgaand toerisme). Er zijn geen gegevens beschikbaar voor Cyprus en Denemarken.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Klik voor meer informatie"

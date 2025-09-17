@@ -1,13 +1,13 @@
 {
-  "heading": "Turisztikai utazások vonattal az EU-ban",
-  "subheading": "A vonattal tett turisztikai utak aránya az EU-ban 2022-ben. Az EU 27 tagállamában az összes turistautak átlagosan 0,12%-a vonattal történt.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Vonattal történő turisztikai utazások az EU-ban",
+  "subheading": "A vonattal megtett turisztikai utak aránya az EU-ban 2022-ben. Az EU 27 tagállamában az összes turisztikai utazás átlagosan 0,12%-át tették ki vonattal.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "az utazások %-a",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Ez a gyűjtemény a nemzeti turizmusra terjed ki, más szóval egy ország lakosai által a lakóhely szerinti ország (belföldi turizmus) vagy külföldre (kiutazó turizmus) célpontokra irányuló turizmusára. Ciprusról és Dániáról nem állnak rendelkezésre adatok.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Ez az adatgyűjtés a belföldi turizmust fedi le, azaz egy ország lakosainak a lakóhelyük szerinti országba (belföldi turizmus) vagy külföldre (kimenő turizmus) irányuló turizmusát. Ciprus és Dánia esetében nem állnak rendelkezésre adatok.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

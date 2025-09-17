@@ -1,13 +1,13 @@
 {
-  "heading": "Vjaġġi tat-turiżmu bil-ferrovija fl-UE",
-  "subheading": "Sehem tal-vjaġġi turistiċi li saru bil-ferrovija fl-UE fl-2022. Bħala medja, 0.12 % tal-vjaġġi turistiċi kollha fis-27 Stat Membru tal-UE saru bil-ferrovija.",
-  "legend1": "Ebda data disponibbli",
+  "heading": "Vjaġġi turistiċi bil-ferrovija fl-UE",
+  "subheading": "Is-sehem ta’ vjaġġi turistiċi magħmula bil-ferrovija fl-UE fl-2022. Bħala medja, 0.12% tal-vjaġġi turistiċi kollha fis-27 Stat Membru tal-UE saru bil-ferrovija.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "% tal-vjaġġi",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Din il-ġabra tkopri t-turiżmu nazzjonali, fi kliem ieħor it-turiżmu minn residenti ta’ pajjiż lejn destinazzjonijiet fil-pajjiż ta’ residenza (turiżmu domestiku) jew barra (turiżmu barra). L-ebda dejta disponibbli għal Ċipru u d-Danimarka.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Din il-kollezzjoni tkopri t-turiżmu nazzjonali, fi kliem ieħor it-turiżmu mir-residenti ta’ pajjiż lejn destinazzjonijiet fil-pajjiż ta’ residenza (turiżmu domestiku) jew barra minn pajjiżhom (turiżmu ’l barra). M’hemm l-ebda dejta disponibbli għal Ċipru u d-Danimarka.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

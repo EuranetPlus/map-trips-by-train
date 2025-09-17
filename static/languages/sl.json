@@ -1,12 +1,12 @@
 {
-  "heading": "Turistična potovanja z vlakom po EU",
-  "subheading": "Delež turističnih potovanj z vlakom v EU leta 2022. V povprečju je bilo z vlakom opravljenih 0,12 % vseh turističnih potovanj v 27 državah članicah EU.",
-  "legend1": "Ni podatkov",
+  "heading": "Turistična potovanja z vlakom v EU",
+  "subheading": "Delež turističnih potovanj, opravljenih z vlakom v EU leta 2022. V povprečju je bilo 0,12 % vseh turističnih potovanj v 27 državah članicah EU opravljenega z vlakom.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "% potovanj",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Ta zbirka zajema nacionalni turizem, z drugimi besedami turizem rezidentov države na destinacije v državi stalnega prebivališča (domači turizem) ali v tujino (outbound turizem). Za Ciper in Dansko ni podatkov.",
+  "textNote": "Ta zbirka zajema nacionalni turizem, z drugimi besedami turizem prebivalcev države v destinacije v državi stalnega prebivališča (domači turizem) ali v tujino (izhodni turizem). Za Ciper in Dansko ni na voljo podatkov.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Kliknite za več informacij"

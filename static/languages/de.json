@@ -1,12 +1,12 @@
 {
   "heading": "Touristische Bahnreisen in der EU",
-  "subheading": "Anteil der mit der Bahn unternommenen touristischen Reisen in der EU im Jahr 2022. Im Durchschnitt wurden 0,12 % aller touristischen Reisen in den 27 EU-Mitgliedstaaten mit der Bahn unternommen.",
+  "subheading": "Anteil der mit der Bahn unternommenen Touristenreisen in der EU im Jahr 2022. Im Durchschnitt wurden 0,12 % aller Touristenreisen in den 27 EU-Mitgliedstaaten mit der Bahn unternommen.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "% der Fahrten",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Diese Sammlung umfasst den nationalen Tourismus, d. h. den Tourismus von Einwohnern eines Landes zu Zielen im Wohnsitzland (Inlandstourismus) oder im Ausland (Outbound-Tourismus). Für Zypern und Dänemark sind keine Daten verfügbar.",
+  "textNote": "Diese Sammlung umfasst den nationalen Tourismus, d. h. den Tourismus von Einwohnern eines Landes zu Zielen im Wohnsitzland (Inlandstourismus) oder im Ausland (Auslandstourismus). Für Zypern und Dänemark sind keine Daten verfügbar.",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"

@@ -1,13 +1,13 @@
 {
-  "heading": "Turystyczne podróże kolejowe po UE",
-  "subheading": "Udział podróży turystycznych zrealizowanych koleją w UE w 2022 r. Średnio 0,12% wszystkich podróży turystycznych w 27 państwach członkowskich UE odbyło się koleją.",
+  "heading": "Podróże turystyczne pociągiem w UE",
+  "subheading": "Udział podróży turystycznych realizowanych pociągiem w UE w 2022 r. Średnio 0,12% wszystkich podróży turystycznych w 27 państwach członkowskich UE odbyło się pociągiem.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "% podróży",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Zbiór ten obejmuje turystykę narodową, czyli turystykę rezydentów danego kraju do miejsc w kraju zamieszkania (turystyka krajowa) lub za granicę (turystyka wyjazdowa). Brak danych dla Cypru i Danii.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Zbiór ten obejmuje turystykę krajową, czyli turystykę mieszkańców danego kraju do miejsc docelowych w kraju zamieszkania (turystyka krajowa) lub za granicą (turystyka wyjazdowa). Brak danych dla Cypru i Danii.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

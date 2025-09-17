@@ -1,13 +1,13 @@
 {
   "heading": "Tūrisma braucieni ar vilcienu ES",
-  "subheading": "Ar vilcienu veikto tūrisma braucienu īpatsvars ES 2022. gadā. Vidēji 0,12% no visiem tūrisma braucieniem 27 ES dalībvalstīs veikti ar vilcienu.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "% no braucieniem",
+  "subheading": "Tūristu braucienu īpatsvars, kas veikti ar vilcienu ES 2022. gadā. Vidēji 0,12% no visiem tūristu braucieniem 27 ES dalībvalstīs tika veikti ar vilcienu.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "Braucienu %",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Šī kolekcija aptver nacionālo tūrismu, citiem vārdiem sakot, valsts iedzīvotāju tūrismu uz galamērķiem mītnes valstī (iekšzemes tūrisms) vai ārzemēm (izejošais tūrisms). Nav pieejami dati par Kipru un Dāniju.",
+  "textNote": "Šī kolekcija aptver nacionālo tūrismu, citiem vārdiem sakot, valsts iedzīvotāju tūrismu uz galamērķiem dzīvesvietas valstī (vietējais tūrisms) vai ārzemēs (izejošais tūrisms). Dati par Kipru un Dāniju nav pieejami.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

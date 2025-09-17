@@ -1,13 +1,13 @@
 {
-  "heading": "Turismresor med tåg i EU",
-  "subheading": "Andel turistresor med tåg i EU 2022. I genomsnitt gjordes 0,12 % av alla turistresor i de 27 EU-medlemsstaterna med tåg.",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "% av resorna",
+  "heading": "Turistresor med tåg i EU",
+  "subheading": "Andel turistresor med tåg i EU år 2022. I genomsnitt gjordes 0,12 % av alla turistresor i de 27 EU-medlemsstaterna med tåg.",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "% av resor",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Denna samling omfattar nationell turism, med andra ord turism av invånare i ett land till destinationer i bosättningslandet (inhemsk turism) eller utomlands (utgående turism). Inga data tillgängliga för Cypern och Danmark.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Denna samling omfattar nationell turism, med andra ord turism från invånare i ett land till destinationer i bosättningslandet (inrikesturism) eller utomlands (utgående turism). Inga uppgifter tillgängliga för Cypern och Danmark.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

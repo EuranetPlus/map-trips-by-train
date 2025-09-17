@@ -6,8 +6,8 @@
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Questa raccolta riguarda il turismo nazionale, vale a dire il turismo effettuato dai residenti di un paese verso destinazioni nel paese di residenza (turismo interno) o all'estero (turismo outbound). Nessun dato disponibile per Cipro e Danimarca.",
+  "textNote": "Questa raccolta riguarda il turismo nazionale, ovvero il turismo effettuato dai residenti di un Paese verso destinazioni nel Paese di residenza (turismo interno) o all'estero (turismo in uscita). Non sono disponibili dati per Cipro e Danimarca.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

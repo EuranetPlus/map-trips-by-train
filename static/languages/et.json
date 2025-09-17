@@ -1,12 +1,12 @@
 {
-  "heading": "Turismireisid rongiga EL-is",
-  "subheading": "Rongiga tehtud turismireiside osakaal EL-is 2022. aastal. Keskmiselt tehti 0,12% kõigist ELi 27 liikmesriigi turismireisidest rongiga.",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "% reisidest",
+  "heading": "Rongiga turismireisid ELis",
+  "subheading": "Rongiga tehtud turismireiside osakaal ELis 2022. aastal. Keskmiselt 0,12% kõigist turismireisidest 27 ELi liikmesriigis tehti rongiga.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "Reiside %",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "See kogumik hõlmab rahvuslikku turismi, teisisõnu riigi elanike turismi elukohariigi sihtkohtadesse (siseturism) või välismaale (väljaminev turism). Küprose ja Taani kohta andmed puuduvad.",
+  "textNoteDescription": "Märkus",
+  "textNote": "See kogumik hõlmab siseturismi, st riigi residentide turismi elukohariigis asuvatesse sihtkohtadesse (siseturism) või välismaale (väljaminev turism). Küprose ja Taani kohta andmed puuduvad.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

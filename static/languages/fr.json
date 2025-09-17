@@ -1,12 +1,12 @@
 {
   "heading": "Voyages touristiques en train dans l'UE",
   "subheading": "Part des voyages touristiques effectués en train dans l'UE en 2022. En moyenne, 0,12 % de tous les voyages touristiques dans les 27 États membres de l'UE ont été effectués en train.",
-  "legend1": "Pas de données disponibles",
-  "tooltip1": "% de déplacements",
+  "legend1": "Aucune donnée disponible",
+  "tooltip1": "% de voyages",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Cette collection couvre le tourisme national, c'est-à-dire le tourisme des résidents d'un pays vers des destinations dans le pays de résidence (tourisme intérieur) ou à l'étranger (tourisme émetteur). Aucune donnée disponible pour Chypre et le Danemark.",
+  "textNote": "Cette collecte couvre le tourisme national, c'est-à-dire le tourisme effectué par les résidents d'un pays vers des destinations situées dans leur pays de résidence (tourisme intérieur) ou à l'étranger (tourisme émetteur). Aucune donnée n'est disponible pour Chypre et le Danemark.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Cliquez pour plus d'informations"

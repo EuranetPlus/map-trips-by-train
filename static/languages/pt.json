@@ -1,12 +1,12 @@
 {
-  "heading": "Viagens turísticas de comboio na UE",
-  "subheading": "Percentagem de viagens turísticas realizadas de comboio na UE em 2022. Em média, 0,12% de todas as viagens turísticas nos 27 Estados-Membros da UE foram realizadas de comboio.",
-  "legend1": "Não há dados disponíveis",
+  "heading": "Viagens turísticas de trem na UE",
+  "subheading": "Proporção de viagens turísticas feitas de trem na UE em 2022. Em média, 0,12% de todas as viagens turísticas nos 27 Estados-Membros da UE foram feitas de trem.",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "% de viagens",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Esta coleção abrange o turismo nacional, ou seja, o turismo realizado por residentes de um país para destinos no país de residência (turismo doméstico) ou no estrangeiro (turismo emissor). Não existem dados disponíveis para Chipre e Dinamarca.",
+  "textNote": "Esta coleção abrange o turismo nacional, ou seja, o turismo de residentes de um país para destinos no país de residência (turismo doméstico) ou no exterior (turismo emissor). Não há dados disponíveis para Chipre e Dinamarca.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Clique para mais informações"

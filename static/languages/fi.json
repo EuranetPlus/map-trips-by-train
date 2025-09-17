@@ -1,13 +1,13 @@
 {
-  "heading": "Matkailumatkat junalla EU:ssa",
-  "subheading": "Junalla tehtyjen matkailumatkojen osuus EU:ssa vuonna 2022. Keskimäärin 0,12 % kaikista turistimatkoista EU:n 27 jäsenvaltiossa tehtiin junalla.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Junamatkat EU:ssa",
+  "subheading": "Junalla tehtyjen turistimatkojen osuus EU:ssa vuonna 2022. Keskimäärin 0,12 % kaikista turistimatkoista EU:n 27 jäsenvaltiossa tehtiin junalla.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "% matkoista",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Tämä kokoelma kattaa kansallisen matkailun, toisin sanoen maan asukkaiden matkailun asuinmaan kohteisiin (kotimaanmatkailu) tai ulkomaille (ulkomaanmatkailu). Kyprosta ja Tanskaa koskevia tietoja ei ole saatavilla.",
+  "textNote": "Tämä kokoelma kattaa kansallisen matkailun eli maan asukkaiden matkailun asuinmaan kohteisiin (kotimaanmatkailu) tai ulkomaille (ulkomaanmatkailu). Tietoja ei ole saatavilla Kyproksesta ja Tanskasta.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }
