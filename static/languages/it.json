@@ -1,13 +1,13 @@
 {
-  "heading": "Viaggi turistici in treno nell'UE",
-  "subheading": "Quota di viaggi turistici effettuati in treno nell'UE nel 2022. In media, lo 0,12% di tutti i viaggi turistici nei 27 Stati membri dell'UE è stato effettuato in treno.",
+  "heading": "Quante persone utilizzano oggi i treni per i viaggi turistici in Europa?",
+  "subheading": "Nel 2024, la quota di viaggi turistici effettuati in treno nell'UE si è attestata in media intorno all'8% di tutti i viaggi turistici.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "% di viaggi",
+  "tooltip1": "di viaggi",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Questa raccolta riguarda il turismo nazionale, ovvero il turismo effettuato dai residenti di un Paese verso destinazioni nel Paese di residenza (turismo interno) o all'estero (turismo in uscita). Non sono disponibili dati per Cipro e Danimarca.",
-  "textDataAccess": "Accedi ai dati",
+  "textNote": "Questa raccolta dati riguarda il turismo nazionale, ovvero il turismo effettuato dai residenti di un paese verso destinazioni nel paese di residenza (turismo interno) o all'estero (turismo in uscita). Non sono disponibili dati per Cipro e Malta.",
+  "textDataAccess": "Accedere ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

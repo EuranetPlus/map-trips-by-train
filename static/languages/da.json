@@ -1,12 +1,12 @@
 {
-  "heading": "Turismerejser med tog i EU",
-  "subheading": "Andel af turistrejser foretaget med tog i EU i 2022. I gennemsnit blev 0,12 % af alle turistrejser i de 27 EU-medlemsstater foretaget med tog.",
+  "heading": "Hvor mange mennesker bruger tog til turistrejser i Europa i disse dage?",
+  "subheading": "Andelen af turistrejser foretaget med tog i EU i 2024 var i gennemsnit omkring 8 % af alle turistrejser.",
   "legend1": "Ingen data tilgængelige",
-  "tooltip1": "% af ture",
+  "tooltip1": "af ture",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Denne samling dækker national turisme, med andre ord turisme fra et lands indbyggere til destinationer i bopælslandet (indenlandsk turisme) eller i udlandet (udgående turisme). Ingen data tilgængelige for Cypern og Danmark.",
+  "textNote": "Denne samling dækker national turisme, med andre ord turisme fra et lands indbyggere til destinationer i bopælslandet (indenlandsk turisme) eller i udlandet (udgående turisme). Ingen data tilgængelige for Cypern og Malta.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Klik for mere information"

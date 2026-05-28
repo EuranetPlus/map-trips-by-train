@@ -1,12 +1,12 @@
 {
-  "heading": "Turistička putovanja vlakom u EU",
-  "subheading": "Udio turističkih putovanja ostvarenih vlakom u EU u 2022. U prosjeku je 0,12% svih turističkih putovanja u 27 država članica EU ostvareno vlakom.",
+  "heading": "Koliko ljudi danas koristi vlakove za turistička putovanja u Europi?",
+  "subheading": "Udio turističkih putovanja ostvarenih vlakom u EU u 2024. godini bio je u prosjeku oko 8% svih turističkih putovanja.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "% putovanja",
+  "tooltip1": "putovanja",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Ova zbirka obuhvaća nacionalni turizam, drugim riječima turizam stanovnika neke zemlje prema odredištima u zemlji prebivališta (domaći turizam) ili inozemstvu (izlazni turizam). Nema dostupnih podataka za Cipar i Dansku.",
+  "textNote": "Ova zbirka obuhvaća nacionalni turizam, drugim riječima turizam stanovnika neke zemlje prema odredištima u zemlji prebivališta (domaći turizam) ili inozemstvu (izlazni turizam). Nema dostupnih podataka za Cipar i Maltu.",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Kliknite za više informacija"

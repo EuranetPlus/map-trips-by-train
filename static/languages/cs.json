@@ -1,12 +1,12 @@
 {
-  "heading": "Turistické cesty vlakem v EU",
-  "subheading": "Podíl turistických cest uskutečněných vlakem v EU v roce 2022. V průměru se 0,12 % všech turistických cest v 27 členských státech EU uskutečnilo vlakem.",
-  "legend1": "Nejsou k dispozici žádná data",
-  "tooltip1": "% cest",
+  "heading": "Kolik lidí v dnešní době využívá vlaky k turistickým cestám po Evropě?",
+  "subheading": "Podíl turistických cest uskutečněných vlakem v EU v roce 2024 činil v průměru kolem 8 % všech turistických cest.",
+  "legend1": "Žádné údaje k dispozici",
+  "tooltip1": "výletů",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Tato sbírka zahrnuje národní cestovní ruch, jinými slovy cestovní ruch rezidentů dané země do destinací v zemi bydliště (domácí cestovní ruch) nebo v zahraničí (výjezdový cestovní ruch). Pro Kypr a Dánsko nejsou k dispozici žádné údaje.",
+  "textNote": "Tato sbírka zahrnuje národní cestovní ruch, jinými slovy cestovní ruch rezidentů dané země do destinací v zemi bydliště (domácí cestovní ruch) nebo v zahraničí (výjezdový cestovní ruch). Pro Kypr a Maltu nejsou k dispozici žádné údaje.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Klikněte pro více informací"
