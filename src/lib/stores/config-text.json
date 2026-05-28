@@ -1,12 +1,12 @@
 {
-  "heading": "Tourism trips by train in the EU",
-  "subheading": "Share of tourist trips made by train in the EU in 2022. On average, 0.12% of all tourist trips in the 27 EU Member States were made by train.",
+  "heading": "How many people are using trains for tourism trips in Europe these days?",
+  "subheading": "Share of tourist trips made by train in the EU in 2024 were on average around 8% of all tourist trips.",
   "legend1": "No data available",
-  "tooltip1": "% of trips",
+  "tooltip1": "of trips",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "This collection covers national tourism, in other words tourism by residents of a country to destinations in the country of residence (domestic tourism) or abroad (outbound tourism). No data available for Cyprus and Denmark.",
+  "textNote": "This collection covers national tourism, in other words tourism by residents of a country to destinations in the country of residence (domestic tourism) or abroad (outbound tourism). No data available for Cyprus and Malta.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Click for more info"
