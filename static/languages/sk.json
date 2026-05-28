@@ -6,7 +6,7 @@
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Táto zbierka zahŕňa národný cestovný ruch, inými slovami cestovný ruch obyvateľov danej krajiny do destinácií v krajine bydliska (domáci cestovný ruch) alebo v zahraničí (pasionálny cestovný ruch). Pre Cyprus a Maltu nie sú k dispozícii žiadne údaje.",
+  "textNote": "Táto zbierka zahŕňa národný cestovný ruch, inými slovami cestovný ruch obyvateľov krajiny do destinácií v krajine bydliska (domáci cestovný ruch) alebo v zahraničí (pasionálny cestovný ruch). Pre Cyprus a Maltu nie sú k dispozícii žiadne údaje.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/web/products-datasets/-/tour_dem_tttr",
   "textCountryClick": "Kliknite pre viac informácií"
